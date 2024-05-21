@@ -1,0 +1,12 @@
+[2024-05-14 03:12:57] local.ERROR: Cannot declare class App\Http\Controllers\MahasiswaController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\MahasiswaController, because the name is already in use at C:\\xampp\\htdocs\\laravel-crud\\app\\Http\\Controllers\\Controller.php:11)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-14 03:15:59] local.ERROR: Cannot declare class App\Http\Controllers\MahasiswaController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\MahasiswaController, because the name is already in use at C:\\xampp\\htdocs\\laravel-crud\\app\\Http\\Controllers\\Controller.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2024-05-14 03:16:14] local.ERROR: Cannot declare class App\Http\Controllers\MahasiswaController, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class App\\Http\\Controllers\\MahasiswaController, because the name is already in use at C:\\xampp\\htdocs\\laravel-crud\\app\\Http\\Controllers\\Controller.php:7)
+[stacktrace]
+#0 {main}
+"} 
